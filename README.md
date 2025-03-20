@@ -10,9 +10,10 @@ P-values and adjusted q-values, allowing for statistical significance assessment
 
 These results can be used to identify genes or gene sets with differential expression across conditions, aiding in biomarker discovery and predictive modeling. Currently, this workflow only works for transcriptomic datasets but will be continue to be modified to accept other omic data.
 
-![meta_res_example](BOLA1.jpg)
-![meta_res_example](CYP4F3.jpg)
-![meta_res_example](VEGFA.jpg)
+Below is an example of the output:
+<img src="BOLA1.jpg" alt="Example 1" width="200">
+<img src="CYP4F3.jpg" alt="Example 2" width="200">
+<img src="VEGFA.jpg" alt="Example 3" width="200">
 
 
 
