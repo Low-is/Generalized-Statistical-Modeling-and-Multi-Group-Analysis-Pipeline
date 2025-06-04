@@ -28,5 +28,4 @@ K.S Pollard, S. Dudoit, M.J. van der Laan (2005). Multiple Testing Procedures: R
 
 T. E. Sweeney, A. Shidham, H. R. Wong, P. Khatri, A comprehensive time-course–
 based multicohort analysis of sepsis and sterile inflammation reveals a robust diagnostic
-gene set. Sci. Transl. Med. 7, 287ra71 (2015). 
-<a href="DOI: 10.1126/scitranslmed.aaa5993" target="_blank" rel="noopener"></a>
+gene set. Sci. Transl. Med. 7, 287ra71 (2015). [DOI: 10.1126/scitranslmed.aaa5993](DOI: 10.1126/scitranslmed.aaa5993) 
