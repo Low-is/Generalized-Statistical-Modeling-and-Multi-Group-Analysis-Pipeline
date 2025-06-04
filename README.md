@@ -24,8 +24,7 @@ Citations:
 K.S Pollard, S. Dudoit, M.J. van der Laan (2005). Multiple Testing Procedures: R multtest Package and
   Applications to Genomics, in Bioinformatics and Computational Biology Solutions Using R and Bioconductor,
   R. Gentleman, V. Carey, W. Huber, R. Irizarry, S. Dudoit (Editors). Springer (Statistics for Biology and
-  Health Series), pp. 251-272. 
-  <a href="https://doi.org/10.1007/0-387-29362-0_15" target="_blank" rel="noopener"></a>
+  Health Series), pp. 251-272. [https://doi.org/10.1007/0-387-29362-0_15](https://doi.org/10.1007/0-387-29362-0_15)
 
 T. E. Sweeney, A. Shidham, H. R. Wong, P. Khatri, A comprehensive time-course–
 based multicohort analysis of sepsis and sterile inflammation reveals a robust diagnostic
