@@ -10,6 +10,10 @@ P-values and adjusted q-values, allowing for statistical significance assessment
 
 These results can be used to identify genes or gene sets with differential expression across conditions, aiding in biomarker discovery and predictive modeling. Currently, this workflow only works for transcriptomic datasets but will be continue to be modified to accept other omic data.
 
+```bash
+curl -O https://42basepairs.com/download/s3/ont-open-data/colo829_2023.04/analysis/sup_wf_som_var/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna
+```
+
 Below is an example of the output:
 
 <img src="BOLA1.jpg" alt="Example 1" width="200">
