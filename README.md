@@ -20,12 +20,12 @@ Below is an example of the output:
 
 
 
-
+Citations: 
 K.S Pollard, S. Dudoit, M.J. van der Laan (2005). Multiple Testing Procedures: R multtest Package and
   Applications to Genomics, in Bioinformatics and Computational Biology Solutions Using R and Bioconductor,
   R. Gentleman, V. Carey, W. Huber, R. Irizarry, S. Dudoit (Editors). Springer (Statistics for Biology and
-  Health Series), pp. 251-272.
+  Health Series), pp. 251-272. <a href="https://doi.org/10.1007/0-387-29362-0_15" target="_blank" rel="noopener"></a>
 
 T. E. Sweeney, A. Shidham, H. R. Wong, P. Khatri, A comprehensive time-course–
 based multicohort analysis of sepsis and sterile inflammation reveals a robust diagnostic
-gene set. Sci. Transl. Med. 7, 287ra71 (2015).
+gene set. Sci. Transl. Med. 7, 287ra71 (2015). <a href="DOI: 10.1126/scitranslmed.aaa5993" target="_blank" rel="noopener"></a>
