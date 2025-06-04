@@ -1,4 +1,4 @@
-# GeneNormMeta
+# Pipeline Development - Meta-analysis
 Effect size estimation, meta-analysis, and statistical testing for gene expression data.
 
 A bioinformatics toolkit for computing effect sizes, pooling meta-analytic estimates, and performing statistical tests on gene expression data. 
