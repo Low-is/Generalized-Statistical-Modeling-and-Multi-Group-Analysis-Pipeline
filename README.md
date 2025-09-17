@@ -27,6 +27,8 @@
         - **0.5:** Medium effect
         - **0.8:** Large effect
 
+**Summary Effect Size** - A combined or aggregated effect size across multiple studies or measurements. Often used in meta-analysis to produce a single estimate that represents the overall effect. 
+
 A bioinformatics toolkit for computing effect sizes, pooling meta-analytic estimates, and performing statistical tests on gene expression data. 
 
 This toolkit calculates summary effect sizes for individual genes, summarizes effect sizes across multiple studies, and determines statistical significance using t-statistics while accounting for variance assumptions. The output includes forest plots and a comprehensive table containing:
