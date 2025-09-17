@@ -5,6 +5,9 @@
 **Cohen's d** - used for comparing two groups, calculated as the differences between group means divided by the pooled standard deviaton.
   - Example:
       d = (M2 - M1)/ SDpooled; M1 and M2 are the mean of the first and second groups.
+  - Hedges' g correction:
+      cf = (1-3)/(4 * (n1+n2) - 9 )
+      g = cf * (mean difference) / (pooled standard deviation)
 
 **Pearson's r** - measures the strength of a linear relationship between two variables, with an effect size ranging from -1 to + 1.
 
