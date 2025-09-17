@@ -2,6 +2,10 @@
 ## Effect size estimation, meta-analysis, and statistical testing for gene expression data.
 
 
+**Standard Deviation (SD)** - measures how spread out individual data points are around the mean.
+
+**Standard Error** - measures how much the sample mean would vary if you repeated the experiment many times. Standard deviation of that distribution of sample means.
+
 **Cohen's d** - used for comparing two groups, calculated as the differences between group means divided by the pooled standard deviaton.
   - Example:
       d = (M2 - M1)/ SDpooled; M1 and M2 are the mean of the first and second groups.
