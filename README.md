@@ -1,5 +1,13 @@
 # Pipeline Development - Meta-analysis
-Effect size estimation, meta-analysis, and statistical testing for gene expression data.
+## Effect size estimation, meta-analysis, and statistical testing for gene expression data.
+
+Effect Size - a statistical measure quantifying the magnitude of a relationship or difference between groups, helping to determine a finding's practical significance beyond statistical significance.
+  - Example:
+      Cohen's d, where a weight loss intervention group loses 10 kg, and the control group loses 5 kg, resulting in a Cohen's d approximately 0.67, indicating a medium effect size that is a noticeable difference in the weight loss between the groups.
+    - Interpreting Cohen's d:
+        - **0.2:** Small effect
+        - **0.5:** Medium effect
+        - **0.8:** Large effect
 
 A bioinformatics toolkit for computing effect sizes, pooling meta-analytic estimates, and performing statistical tests on gene expression data. 
 
