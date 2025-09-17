@@ -2,11 +2,15 @@
 ## Effect size estimation, meta-analysis, and statistical testing for gene expression data.
 
 
-Pooled Standard Deviation - a weighted average of standard deviation from two or more groups, used when assuming the groups have equal variances. It combines individual group varainces to provide a single, more precise estimate of the common variability across the populations.
+**Cohen's d** - used for comparing two groups, calculated as the differences between group means divided by the pooled standard deviaton.
+
+**Pearson's r** - measures the strength of a linear relationship between two variables, with an effect size ranging from -1 to + 1.
+
+**Pooled Standard Deviation** - a weighted average of standard deviation from two or more groups, used when assuming the groups have equal variances. It combines individual group varainces to provide a single, more precise estimate of the common variability across the populations.
   - Example:
       Pooled SD = sqrt((SD1^2 + SD2^2) / 2)
 
-Effect Size - a statistical measure quantifying the magnitude of a relationship or difference between groups, helping to determine a finding's practical significance beyond statistical significance.
+**Effect Size** - a statistical measure quantifying the magnitude of a relationship or difference between groups, helping to determine a finding's practical significance beyond statistical significance.
   - Example:
       Cohen's d, where a weight loss intervention group loses 10 kg, and the control group loses 5 kg, resulting in a Cohen's d approximately 0.67, indicating a medium effect size that is a noticeable difference in the weight loss between the groups.
     - Interpreting Cohen's d:
